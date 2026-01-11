@@ -1,26 +1,40 @@
-# 🖤🛣️ BlackRoad Charity Marketplace
+# BlackRoad Charity Marketplace
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Transparent charitable giving platform with blockchain verification. Connect donors with causes, track impact.
 
-## 🚀 Quick Start
+## Features
+
+- **Verified Charities** - KYC/AML compliant organizations
+- **Impact Tracking** - See where your money goes
+- **Crypto Donations** - Accept BTC, ETH, stablecoins
+- **Tax Receipts** - Automatic documentation
+- **Recurring Giving** - Monthly donation plans
+- **Transparency** - On-chain donation records
+
+## For Donors
+
+- Browse verified charities by cause
+- Track donation impact in real-time
+- Get automatic tax receipts
+- Set up recurring donations
+- Donate crypto or fiat
+
+## For Charities
+
+- Create verified profile
+- Showcase impact metrics
+- Accept global donations
+- Reduce payment fees
+- Build donor relationships
+
+## Quick Start
 
 ```bash
-./blackroad-charity-marketplace.sh
+./blackroad-charity-marketplace.sh init
+./blackroad-charity-marketplace.sh serve --port 3000
 ```
 
-## 🎨 BlackRoad Design System
+## License
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
